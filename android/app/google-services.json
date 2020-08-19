@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1037481191942",
+    "firebase_url": "https://ian-project-a246e.firebaseio.com",
+    "project_id": "ian-project-a246e",
+    "storage_bucket": "ian-project-a246e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037481191942:android:55453b3b4a27bf710d3187",
+        "android_client_info": {
+          "package_name": "com.example.ianksp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037481191942-g0kea5bf5p9r9u0tptrn4n9qdjooqnso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU-1wWhzQTz7Xn3utC5UsfR8qJzzTBwt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037481191942-g0kea5bf5p9r9u0tptrn4n9qdjooqnso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
